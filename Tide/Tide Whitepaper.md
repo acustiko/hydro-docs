@@ -341,7 +341,7 @@ Features of the Tide gift card smart contract include:
 Remittance Payments
 -------------------
 
-Remittance payments can be streamlined using Hydro Tide and ERC-1484. Traditional services like Western Union, and even upstarts like Transferwise, charge exorbitant fees for remittance. This is because of the many middleean involved, each taking a slice of the pie as the money is moved in between parties. Blockchain gives us the ability to create a more decentralized remittance ecosystem.
+Remittance payments can be streamlined using Hydro Tide and ERC-1484. Traditional services like Western Union, and even upstarts like Transferwise, charge exorbitant fees for remittance. This is because of the many middlemen involved, each taking a slice of the pie as the money is moved in between parties. Blockchain gives us the ability to create a more decentralized remittance ecosystem.
 
 Hydro Tide smart contracts can be built to allow developers to build remittance dApps that move HYDRO tokens in between Snowflake addresses of users in different countries, with swaps built-in for stablecoin (and potentially fiat) on-ramps and off-ramps. Thanks to ERC-1484 senders guarantee their payment arrives, business providers can guarantee funds are available, and receivers are able to use the received cryptocurrency immediately. As decentralized cryptocurrency markets become more mature, these remittance dApps can be provided with virtually no middleman fees to the end user.
 
