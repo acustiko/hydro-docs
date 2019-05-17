@@ -12,141 +12,61 @@
 
 [Background](#background)
 
-//(https://docs.google.com/document/d/1Ty04e4uwX4QB0Jhjo4FknYN0P49WVdomfuKJQ3ya7Bs/edit#heading=h.nlc3ktyo8vhs)
-
-  
-
 [Mobile Payments](#mobile-payments)
-
-//(https://docs.google.com/document/d/1Ty04e4uwX4QB0Jhjo4FknYN0P49WVdomfuKJQ3ya7Bs/edit#heading=h.206ilftuncr)
-
-  
 
 [Point of Sale Payments](#point-of-sale-payments)
 
-//(https://docs.google.com/document/d/1Ty04e4uwX4QB0Jhjo4FknYN0P49WVdomfuKJQ3ya7Bs/edit#heading=h.hi5gonrn3yhr)
-
-  
-
 [History of P2P Payments](#history-of-p2p-payments)
-
-//(https://docs.google.com/document/d/1Ty04e4uwX4QB0Jhjo4FknYN0P49WVdomfuKJQ3ya7Bs/edit#heading=h.79d0ktvxyoc3)
-
-  
 
 [Remittance](#remittance)
 
-//(https://docs.google.com/document/d/1Ty04e4uwX4QB0Jhjo4FknYN0P49WVdomfuKJQ3ya7Bs/edit#heading=h.8dt0ngdp9k0s)
-
-  
-
 [Problems with Traditional Payments](#problems-with-traditional-payments)
-
-//(https://docs.google.com/document/d/1Ty04e4uwX4QB0Jhjo4FknYN0P49WVdomfuKJQ3ya7Bs/edit#heading=h.1iqmvl6uo94m)
-
-  
 
 [Fraud and Chargebacks in Traditional Payments](#fraud-and-chargebacks-in-traditional-payments)
 
-//(https://docs.google.com/document/d/1Ty04e4uwX4QB0Jhjo4FknYN0P49WVdomfuKJQ3ya7Bs/edit#heading=h.ts24zo2hp3dl)
-
-  
-
 [Introducing Tide](#introducing-tide)
-
-//(https://docs.google.com/document/d/1Ty04e4uwX4QB0Jhjo4FknYN0P49WVdomfuKJQ3ya7Bs/edit#heading=h.8qdokkbn2is5)
-
-  
 
 [Snowflake and ERC 1484](#snowflake-and-erc-1484)
 
-//(https://docs.google.com/document/d/1Ty04e4uwX4QB0Jhjo4FknYN0P49WVdomfuKJQ3ya7Bs/edit#heading=h.1b0n7lq59ub5)
-
-  
-
 [P2P Payments](#p2p-payments)
-
-//(https://docs.google.com/document/d/1Ty04e4uwX4QB0Jhjo4FknYN0P49WVdomfuKJQ3ya7Bs/edit#heading=h.5rzaicegv546)
-
-  
 
 [Subscriptions](#subscriptions)
 
-(https://docs.google.com/document/d/1Ty04e4uwX4QB0Jhjo4FknYN0P49WVdomfuKJQ3ya7Bs/edit#heading=h.t9dcn1reefa7)
-
-  
-
 [Hydro Tide Subscription Smart Contract](#hydro-tide-subscription-smart-contract)
-
-  
 
 [Interest Payments](#interest-payments)
 
-  
-
 [Hydro Tide Interest Payments Smart Contract](#hydro-tide-interest-payments-smart-contract)
-
-  
 
 [Coupon Payments](#coupon-payments)
 
-  
-
 [Hydro Tide Coupon Smart Contract](#hydro-tide-coupon-smart-contract)
-
-  
 
 [Gift Cards](#gift-cards)
 
-  
-
 [Hydro Tide Gift Card Smart Contract](#hydro-tide-gift-card-smart-contract)
-
-  
 
 [Remittance Payments](#remittance-payments)
 
-  
-
 [Lottery and One-Time Payments](#lottery-and-one-time-payments)
-
-  
 
 [Invoicing AR and AP](#invoicing-ar-and-ap)
 
-  
-
 [HYDRO Tokens In Tide](#hydro-tokens-in-tide)
-
-  
 
 [Implications of Tide](#implications-of-tide)
 
-  
-
 [Consumer Applications](#consumer-applications)
-
-  
 
 [B2B Applications](#b2b-applications)
 
-  
-
-[Tide Partnerships](#tide-partnerships)
-
-  
+[Tide Partnerships](#tide-partnerships) 
 
 [Native Mobile QR Codes and NFC](#native-mobile-qr-codes-and-nfc)
 
-  
-
 [Risks](#risks)
 
-  
-
 [Conclusion](#conclusion)
-
-  
 
 [Sources](#sources)
 
